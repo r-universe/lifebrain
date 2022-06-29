@@ -1,10 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/lifebrain/universe
 	shallow = true
 	branch = HEAD
+[submodule "ggseg"]
+	path = ggseg
+	url = https://github.com/ggseg/ggseg
+	shallow = true
+	registered = true
+[submodule "ggseg3d"]
+	path = ggseg3d
+	url = https://github.com/ggseg/ggseg3d
+	shallow = true
+	registered = true
+[submodule "ggsegExtra"]
+	path = ggsegExtra
+	url = https://github.com/ggseg/ggsegExtra
+	shallow = true
+	registered = true
 [submodule "metagam"]
 	path = metagam
-	url = https://github.com/lifebrain/metagam
+	url = https://github.com/Lifebrain/metagam
+	shallow = true
+	registered = true
+[submodule "semtree"]
+	path = semtree
+	url = https://github.com/brandmaier/semtree
+	shallow = true
+	registered = true
+[submodule "regsem"]
+	path = regsem
+	url = https://github.com/Rjacobucci/regsem
+	shallow = true
+	registered = true
+[submodule "efast"]
+	path = efast
+	url = https://github.com/vankesteren/efast
+	shallow = true
+	registered = true
+[submodule "ICED"]
+	path = ICED
+	url = https://github.com/sdparsons/ICED
 	shallow = true
 	registered = true

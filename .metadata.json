@@ -1,6 +1,31 @@
 [
   {
+    "package": "ggseg",
+    "oncran": true
+  },
+  {
+    "package": "ggseg3d",
+    "oncran": true
+  },
+  {
+    "package": "ggsegExtra"
+  },
+  {
     "package": "metagam",
     "oncran": true
+  },
+  {
+    "package": "semtree",
+    "oncran": false
+  },
+  {
+    "package": "regsem",
+    "oncran": false
+  },
+  {
+    "package": "efast"
+  },
+  {
+    "package": "ICED"
   }
 ]
