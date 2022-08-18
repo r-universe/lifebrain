@@ -26,6 +26,7 @@
     "package": "efast"
   },
   {
-    "package": "ICED"
+    "package": "ICED",
+    "oncran": false
   }
 ]
