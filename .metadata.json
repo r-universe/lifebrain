@@ -20,13 +20,13 @@
   },
   {
     "package": "regsem",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "efast"
   },
   {
     "package": "ICED",
-    "oncran": false
+    "oncran": true
   }
 ]
