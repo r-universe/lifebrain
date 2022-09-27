@@ -43,6 +43,11 @@
 	url = https://github.com/sdparsons/ICED
 	shallow = true
 	registered = true
+[submodule "gbhs"]
+	path = gbhs
+	url = https://github.com/lifebrain/gbhs
+	shallow = true
+	registered = true
 [submodule "ggsegChen"]
 	path = ggsegChen
 	url = https://github.com/ggseg/ggsegChen

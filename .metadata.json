@@ -28,5 +28,8 @@
   {
     "package": "ICED",
     "oncran": true
+  },
+  {
+    "package": "gbhs"
   }
 ]
