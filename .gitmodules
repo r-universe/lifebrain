@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lifebrain/universe
+	url = https://github.com/lifebrain/lifebrain.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "ggseg"]
