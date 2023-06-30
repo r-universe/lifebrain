@@ -1,105 +1,75 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/lifebrain/lifebrain.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggseg/ggseg
-	shallow = true
-	registered = true
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggseg/ggseg3d
-	shallow = true
-	registered = true
 [submodule "ggsegExtra"]
 	path = ggsegExtra
 	url = https://github.com/ggseg/ggsegExtra
-	shallow = true
-	registered = true
 [submodule "metagam"]
 	path = metagam
 	url = https://github.com/Lifebrain/metagam
-	shallow = true
-	registered = true
 [submodule "semtree"]
 	path = semtree
 	url = https://github.com/brandmaier/semtree
-	shallow = true
-	registered = true
 [submodule "regsem"]
 	path = regsem
 	url = https://github.com/Rjacobucci/regsem
-	shallow = true
-	registered = true
 [submodule "efast"]
 	path = efast
 	url = https://github.com/vankesteren/efast
-	shallow = true
-	registered = true
 [submodule "ICED"]
 	path = ICED
 	url = https://github.com/sdparsons/ICED
-	shallow = true
-	registered = true
 [submodule "gbhs"]
 	path = gbhs
 	url = https://github.com/lifebrain/gbhs
-	shallow = true
-	registered = true
 [submodule "ggsegChen"]
 	path = ggsegChen
 	url = https://github.com/ggseg/ggsegChen
-	shallow = true
 	registered = false
 [submodule "ggsegDKT"]
 	path = ggsegDKT
 	url = https://github.com/ggseg/ggsegDKT
-	shallow = true
 	registered = false
 [submodule "ggsegDefaultExtra"]
 	path = ggsegDefaultExtra
 	url = https://github.com/ggseg/ggsegDefaultExtra
-	shallow = true
 	registered = false
 [submodule "ggsegDesterieux"]
 	path = ggsegDesterieux
 	url = https://github.com/ggseg/ggsegDesterieux
-	shallow = true
 	registered = false
 [submodule "ggsegGlasser"]
 	path = ggsegGlasser
 	url = https://github.com/ggseg/ggsegGlasser
-	shallow = true
 	registered = false
 [submodule "ggsegHO"]
 	path = ggsegHO
 	url = https://github.com/ggseg/ggsegHO
-	shallow = true
 	registered = false
 [submodule "ggsegICBM"]
 	path = ggsegICBM
 	url = https://github.com/ggseg/ggsegICBM
-	shallow = true
 	registered = false
 [submodule "ggsegJHU"]
 	path = ggsegJHU
 	url = https://github.com/ggseg/ggsegJHU
-	shallow = true
 	registered = false
 [submodule "ggsegSchaefer"]
 	path = ggsegSchaefer
 	url = https://github.com/ggseg/ggsegSchaefer
-	shallow = true
 	registered = false
 [submodule "ggsegTracula"]
 	path = ggsegTracula
 	url = https://github.com/ggseg/ggsegTracula
-	shallow = true
 	registered = false
 [submodule "ggsegYeo2011"]
 	path = ggsegYeo2011
 	url = https://github.com/ggseg/ggsegYeo2011
-	shallow = true
 	registered = false
