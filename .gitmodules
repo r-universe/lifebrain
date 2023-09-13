@@ -2,33 +2,21 @@
 	path = .registry
 	url = https://github.com/lifebrain/lifebrain.r-universe.dev
 	branch = HEAD
+[submodule "ICED"]
+	path = ICED
+	url = https://github.com/sdparsons/ICED
+[submodule "efast"]
+	path = efast
+	url = https://github.com/vankesteren/efast
+[submodule "gbhs"]
+	path = gbhs
+	url = https://github.com/lifebrain/gbhs
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggseg/ggseg
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggseg/ggseg3d
-[submodule "ggsegExtra"]
-	path = ggsegExtra
-	url = https://github.com/ggseg/ggsegExtra
-[submodule "metagam"]
-	path = metagam
-	url = https://github.com/Lifebrain/metagam
-[submodule "semtree"]
-	path = semtree
-	url = https://github.com/brandmaier/semtree
-[submodule "regsem"]
-	path = regsem
-	url = https://github.com/Rjacobucci/regsem
-[submodule "efast"]
-	path = efast
-	url = https://github.com/vankesteren/efast
-[submodule "ICED"]
-	path = ICED
-	url = https://github.com/sdparsons/ICED
-[submodule "gbhs"]
-	path = gbhs
-	url = https://github.com/lifebrain/gbhs
 [submodule "ggsegChen"]
 	path = ggsegChen
 	url = https://github.com/ggseg/ggsegChen
@@ -45,6 +33,9 @@
 	path = ggsegDesterieux
 	url = https://github.com/ggseg/ggsegDesterieux
 	registered = false
+[submodule "ggsegExtra"]
+	path = ggsegExtra
+	url = https://github.com/ggseg/ggsegExtra
 [submodule "ggsegGlasser"]
 	path = ggsegGlasser
 	url = https://github.com/ggseg/ggsegGlasser
@@ -73,3 +64,12 @@
 	path = ggsegYeo2011
 	url = https://github.com/ggseg/ggsegYeo2011
 	registered = false
+[submodule "metagam"]
+	path = metagam
+	url = https://github.com/Lifebrain/metagam
+[submodule "regsem"]
+	path = regsem
+	url = https://github.com/Rjacobucci/regsem
+[submodule "semtree"]
+	path = semtree
+	url = https://github.com/brandmaier/semtree
