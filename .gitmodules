@@ -17,53 +17,9 @@
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggseg/ggseg3d
-[submodule "ggsegChen"]
-	path = ggsegChen
-	url = https://github.com/ggseg/ggsegChen
-	registered = false
-[submodule "ggsegDKT"]
-	path = ggsegDKT
-	url = https://github.com/ggseg/ggsegDKT
-	registered = false
-[submodule "ggsegDefaultExtra"]
-	path = ggsegDefaultExtra
-	url = https://github.com/ggseg/ggsegDefaultExtra
-	registered = false
-[submodule "ggsegDesterieux"]
-	path = ggsegDesterieux
-	url = https://github.com/ggseg/ggsegDesterieux
-	registered = false
 [submodule "ggsegExtra"]
 	path = ggsegExtra
 	url = https://github.com/ggseg/ggsegExtra
-[submodule "ggsegGlasser"]
-	path = ggsegGlasser
-	url = https://github.com/ggseg/ggsegGlasser
-	registered = false
-[submodule "ggsegHO"]
-	path = ggsegHO
-	url = https://github.com/ggseg/ggsegHO
-	registered = false
-[submodule "ggsegICBM"]
-	path = ggsegICBM
-	url = https://github.com/ggseg/ggsegICBM
-	registered = false
-[submodule "ggsegJHU"]
-	path = ggsegJHU
-	url = https://github.com/ggseg/ggsegJHU
-	registered = false
-[submodule "ggsegSchaefer"]
-	path = ggsegSchaefer
-	url = https://github.com/ggseg/ggsegSchaefer
-	registered = false
-[submodule "ggsegTracula"]
-	path = ggsegTracula
-	url = https://github.com/ggseg/ggsegTracula
-	registered = false
-[submodule "ggsegYeo2011"]
-	path = ggsegYeo2011
-	url = https://github.com/ggseg/ggsegYeo2011
-	registered = false
 [submodule "metagam"]
 	path = metagam
 	url = https://github.com/Lifebrain/metagam
