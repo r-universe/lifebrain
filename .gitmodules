@@ -13,13 +13,10 @@
 	url = https://github.com/lifebrain/gbhs
 [submodule "ggseg"]
 	path = ggseg
-	url = https://github.com/ggseg/ggseg
+	url = https://github.com/ggsegverse/ggseg
 [submodule "ggseg3d"]
 	path = ggseg3d
-	url = https://github.com/ggseg/ggseg3d
-[submodule "ggsegExtra"]
-	path = ggsegExtra
-	url = https://github.com/ggseg/ggsegExtra
+	url = https://github.com/ggsegverse/ggseg3d
 [submodule "metagam"]
 	path = metagam
 	url = https://github.com/Lifebrain/metagam
